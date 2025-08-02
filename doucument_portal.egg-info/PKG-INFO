@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: doucument_portal
+Version: 0.1
+Summary: A document portal application
+Author: Manu Chauhan
+Requires-Python: >=3.7
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
